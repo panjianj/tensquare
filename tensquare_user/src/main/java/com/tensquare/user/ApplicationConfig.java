@@ -7,7 +7,7 @@ import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurationSupport;
 
 /**
- * 配置类 添加Jwt拦截器
+ * 配置类 添加Jwt拦截器 20200611
  */
 @Configuration
 public class ApplicationConfig extends WebMvcConfigurationSupport {
